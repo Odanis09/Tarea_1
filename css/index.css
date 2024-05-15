@@ -1,0 +1,43 @@
+.titulo{
+  background-color: rgb(51, 175, 175);  
+  border-radius: 12px;
+  font-family: fantasy;  
+  font-size: 24pt;
+  color: whitesmoke;
+  padding: 26px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  
+}
+
+.imagen{
+  border: solid  rgb(51, 175, 175);
+  border-width: 12px;
+  border-radius: 12px;
+  margin-left: 590px;
+  width: 230px;
+  height: 250px; 
+ display: flex;
+ justify-content:center ;
+ align-items: center;
+ height: 32vh;
+ 
+
+}
+
+.espacio1{
+  background-color:rgb(51, 175, 175);
+  color: rgb(51, 175, 175);
+  border-radius: 6px;
+  
+}
+.me{
+  background-color: azure;
+  border-radius: 6px;
+  text-align: center;
+  
+}
+.me h3{
+  display: inline-flex;
+}
